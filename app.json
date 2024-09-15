@@ -2,12 +2,12 @@
   "expo": {
     "name": "whatsapp2",
     "slug": "whatsapp2",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/eagle.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/eagle.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +16,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/eagle.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ant_volkov.whatsapp2"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2c241107-12bb-40ea-863d-e766115528b1"
+      }
     }
   }
 }

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983350929825",
+    "project_id": "whatsapp-11dbb",
+    "storage_bucket": "whatsapp-11dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983350929825:android:905034a2995042210a83e0",
+        "android_client_info": {
+          "package_name": "com.ant_volkov.whatsapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983350929825-2qcrva6ma4as5aqanlq7i25p4qq3j7ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKq0TG0HUTeAE6VElBJbpmnDMVucFWkAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983350929825-2qcrva6ma4as5aqanlq7i25p4qq3j7ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
